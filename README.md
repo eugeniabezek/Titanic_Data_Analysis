@@ -38,3 +38,7 @@ Esta práctica se ha realizado bajo el contexto de la asignatura Tipología y ci
     C = Cherbourg
     Q = Queenstown
     S = Southampton
+    
+
+##### Las librerias que hay que instalar son:
+   * pip install statsmodels
